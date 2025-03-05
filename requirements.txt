@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+chromadb
+langchain
+openai
+transformers
+aiofiles
+pytest
+langchain-community
+langchain-openai
+PyJWT
