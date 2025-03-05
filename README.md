@@ -1,6 +1,6 @@
 # RAG-Based Q&A System
 
-This project implements a **Retrieval-Augmented Generation (RAG) Q&A system** using **FastAPI, PostgreSQL, FAISS, and LangChain**. 
+This project implements a **Retrieval-Augmented Generation (RAG) Q&A system** using **FastAPI, PostgreSQL, Chroma and LangChain**. 
 
 ## Features
 **FastAPI-based backend**  
