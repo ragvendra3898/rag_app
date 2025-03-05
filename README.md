@@ -172,9 +172,7 @@ This project is licensed under the **MIT License**.
 
 ## 11. Contact
 
-📧 **Email:** your-email@example.com  
-🔗 **GitHub:** [your-github-profile](https://github.com/your-username)  
+📧 **Email:** roxmayank28@gmail.com  
+🔗 **GitHub:** https://github.com/ragvendra3898)  
 
----
 
-**Your project is now fully documented!** 🚀  
