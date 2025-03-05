@@ -140,7 +140,7 @@ jobs:
       run: pytest tests/
 ```
 
-✅ **Each push triggers CI/CD tests automatically.**
+**Each push triggers CI/CD tests automatically.**
 
 ---
 
@@ -150,7 +150,7 @@ jobs:
 ```bash
 az webapp up --name my-rag-app --resource-group my-group
 ```
-✅ **Your API is now live!**
+**Your API is now live!**
 
 ---
 
@@ -162,17 +162,10 @@ az webapp up --name my-rag-app --resource-group my-group
 4. **Push to GitHub** (`git push origin feature/your-feature`)
 5. **Open a Pull Request**
 
----
 
-## 10. License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 11. Contact
+## 10. Contact
 
 📧 **Email:** roxmayank28@gmail.com  
-🔗 **GitHub:** https://github.com/ragvendra3898)  
+🔗 **GitHub:** https://github.com/ragvendra3898  
 
 
